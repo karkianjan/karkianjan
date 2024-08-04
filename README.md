@@ -1,15 +1,16 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Anjan Karki and I'm a frontend developer from Banepa.</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
+</div>
 
 <h2 align="left">About me</h2>
 
 <p align="left">📚 I'm currently learning React.<br>🎯 Goals: MERN stack developer.</p>
 
 <h2 align="left">I code with</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
-</div>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
