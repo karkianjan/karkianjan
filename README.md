@@ -11,6 +11,9 @@
 
 <h2 align="left">I code with</h2>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
