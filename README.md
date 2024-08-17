@@ -12,7 +12,7 @@
 <h2 align="left">I code with</h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=karkianjan&color=blue" alt="Profile Views" />
 </p>
 
 <div align="left">
