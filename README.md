@@ -52,9 +52,9 @@
 <p align="left">
   <a href="https://www.anjankarki.com.np/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
 
-![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
