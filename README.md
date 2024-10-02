@@ -38,6 +38,11 @@
   <img width="12" />
 </div>
 
+<h2 align="left">Projects</h2>
+
+- [Meal Website](https://meal-website-silk.vercel.app/)
+- [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
+
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
