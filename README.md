@@ -36,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-
-
 </div>
 
 <h2 align="left">Connect with me</h2>
@@ -52,9 +50,12 @@
 <p align="left">
   <a href="https://www.anjankarki.com.np/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
 </p>
+
+<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true)
 
+<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true)
 
+<!-- GitHub Stats -->
 ![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
-
