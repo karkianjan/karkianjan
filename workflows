@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Run at 12am UTC daily
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation generation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: karkianjan
+          outputs: dist/snake.svg
+
+      - name: Push generated Snake
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+
+      - name: Generate Snake Animation in GitHub Page
+        run: |
+          git add dist/snake.svg
+          git commit -m "Generated snake animation"
+          git push
