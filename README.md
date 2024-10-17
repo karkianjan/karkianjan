@@ -1,40 +1,41 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Anjan Karki and I'm a frontend developer from Banepa.</p>
+<p align="left">My name is Anjan Karki, and I'm a frontend developer from Banepa.</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
 </div>
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
-<p align="left">📚 I'm currently learning React.<br>🎯 Goals: MERN stack developer.</p>
+<p align="left">📚 I'm currently learning React.<br>🎯 My goal is to become a MERN stack developer.</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=karkianjan&color=blue" alt="Profile Views" />
 </p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
 </div>
 
@@ -43,14 +44,15 @@
 - [Meal Website](https://meal-website-silk.vercel.app/)
 - [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anjan-karki-395791233/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a>
   <a href="https://github.com/karkianjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
+  <br>📧 Reach me at: <a href="mailto:carkey.anjan2018@gmail.com">carkey.anjan2018@gmail.com</a>
 </p>
 
-<h2 align="left">Visit my website</h2>
+<h2 align="left">Visit My Website</h2>
 
 <p align="left">
   <a href="https://www.anjankarki.com.np/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
