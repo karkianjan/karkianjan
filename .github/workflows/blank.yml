@@ -1,25 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  schedule:  # This schedule will run the action every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:  # Allows you to run the action manually from the GitHub Actions tab
+  schedule: 
+    - cron: "0 */6 * * *"  # Runs the action every 6 hours
+  workflow_dispatch:  # Allows manual triggering from the Actions tab
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
+      - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_user_name: your-username  # Replace 'your-username' with your GitHub username
+          github_user_name: karkianjan  # Replace with your GitHub username
           svg_out_path: dist/snake.svg
 
-      - name: Push the generated snake.svg to the output branch
+      - name: Push the generated SVG
         uses: ad-m/github-push-action@master
         with:
-          branch: output  # Create a branch 'output' where the snake.svg will be stored
+          branch: output  # The branch where the snake.svg will be stored
           file: dist/snake.svg
