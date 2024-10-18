@@ -68,4 +68,5 @@
 ![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/karkianjan/karkianjan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/your-username/your-repo-name/blob/output/snake.svg)
+
