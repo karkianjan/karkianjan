@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Anjan Karki, and I'm a frontend developer from Banepa.</p>
+<p align="left">My name is Anjan Karki, and I develop Web Application.</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
