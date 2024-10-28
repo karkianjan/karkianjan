@@ -75,7 +75,8 @@
 
 <!-- Snake animation -->
 
-![Snake animation](https://raw.githubusercontent.com/karkianjan/karkianjan/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/karkianjan/karkianjan/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
 
