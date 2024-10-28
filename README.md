@@ -43,7 +43,7 @@
 
 - [Meal Website](https://meal-website-silk.vercel.app/)
 - [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
-- [First Intern Project](https://first-landing-page-fawn.vercel.app/)
+- [Intern First Project](https://first-landing-page-fawn.vercel.app/)
 
 <h2 align="left">Connect with Me</h2>
 
