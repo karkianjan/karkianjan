@@ -43,6 +43,7 @@
 
 - [Meal Website](https://meal-website-silk.vercel.app/)
 - [Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)
+- [First Intern Project](https://first-landing-page-fawn.vercel.app/)
 
 <h2 align="left">Connect with Me</h2>
 
@@ -57,12 +58,12 @@
 <p align="left">
   <a href="https://www.anjankarki.com.np/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
 </p>
+
 <h2 align="left">My CV</h2>
 
 <p align="left">
   <a href="https://anjankarkicv.vercel.app/"><img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue" alt="CV logo" /></a>
 </p>
-
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true)
@@ -76,7 +77,3 @@
 <!-- Snake animation -->
 
 ![Snake animation](https://raw.githubusercontent.com/karkianjan/karkianjan/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-
-
-
