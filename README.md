@@ -74,6 +74,4 @@
 <!-- GitHub Stats -->
 ![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
 
-<!-- Snake animation -->
 
-![Snake animation](https://raw.githubusercontent.com/karkianjan/karkianjan/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
