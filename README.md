@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Anjan Karki, and I develop Web Application.</p>
+<p align="left">My name is Anjan Karki, and I develop Web Applications.</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
@@ -65,6 +65,12 @@
   <a href="https://anjankarkicv.vercel.app/"><img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue" alt="CV logo" /></a>
 </p>
 
+<!-- GitHub Trophies -->
+<h2 align="left">GitHub Trophies</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=karkianjan&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true)
 
@@ -73,5 +79,3 @@
 
 <!-- GitHub Stats -->
 ![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
-
-
