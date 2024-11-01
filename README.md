@@ -2,9 +2,8 @@
 
 <p align="left">My name is Anjan Karki, and I develop Web Applications.</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
-</div>
+<P><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><p></p>
+
 
 <h2 align="left">About Me</h2>
 
