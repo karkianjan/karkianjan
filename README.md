@@ -2,8 +2,7 @@
 
 <p align="left">My name is Anjan Karki, and I develop Web Applications.</p>
 
-<P><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><p></p>
-
+<p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
 
 <h2 align="left">About Me</h2>
 
@@ -35,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
 </div>
 
 <h2 align="left">Projects</h2>
@@ -71,10 +69,16 @@
 </p>
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 <!-- GitHub Stats -->
-![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
