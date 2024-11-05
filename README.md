@@ -6,7 +6,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">📚 I'm currently learning React.<br>🎯 My goal is to become a MERN stack developer.</p>
+📚 I'm currently studying **BSc. CSIT** and learning React.<br>🎯 My goal is to become a MERN stack developer.</p>
 
 <h2 align="left">I Code With</h2>
 
