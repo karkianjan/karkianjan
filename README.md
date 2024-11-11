@@ -7,6 +7,7 @@
 <h2 align="left">About Me</h2>
 
 📚 I'm currently studying **BSc. CSIT** and learning React.<br>🎯 My goal is to become a MERN stack developer.</p>
+  <br>📧 Reach me at: <a href="mailto:carkey.anjan2018@gmail.com">carkey.anjan2018@gmail.com</a>
 
 <h2 align="left">I Code With</h2>
 
@@ -47,7 +48,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/anjan-karki-395791233/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a>
  
-  <br>📧 Reach me at: <a href="mailto:carkey.anjan2018@gmail.com">carkey.anjan2018@gmail.com</a>
+
 </p>
 
 <h2 align="left">Visit My Website</h2>
