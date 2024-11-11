@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anjan-karki-395791233/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a>
-  <a href="https://github.com/karkianjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
+ 
   <br>📧 Reach me at: <a href="mailto:carkey.anjan2018@gmail.com">carkey.anjan2018@gmail.com</a>
 </p>
 
