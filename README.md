@@ -1,6 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Anjan Karki, and I develop Web Applications.</p>
+*   💬  Ask me about my experience with web development technologies
+*   ⚡  Fun fact: I enjoy hiking and exploring new places in my free time!
 
 <p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
 
