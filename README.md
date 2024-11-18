@@ -82,17 +82,8 @@ Here are some of my favorite projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true" alt="GitHub Streak" />](https://github-readme-streak-stats.herokuapp.com/?user=karkianjan
-)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karkianjan&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karkianjan&color=blue" alt="Profile Views" />
-</p>
+<p align="
