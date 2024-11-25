@@ -93,4 +93,4 @@ Here are some of my favorite projects:
 
 ---
 
-> **Note**: Ensure the GitHub stats URL correctly reflects your GitHub username (`karkianjan` in this case) and that the `langs_count` parameter is set to display an appropriate number of languages.
+
