@@ -83,7 +83,14 @@ Here are some of my favorite projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karkianjan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="
+<h3>💡 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+---
+
+> **Note**: Ensure the GitHub stats URL correctly reflects your GitHub username (`karkianjan` in this case) and that the `langs_count` parameter is set to display an appropriate number of languages.
