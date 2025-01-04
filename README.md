@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 I'm Anjan Karki!</h1>
+<h1 align="center">👋 Hi, I'm Anjan Karki!</h1>
 
 <p align="center">
-  I'm a passionate Web Developer currently diving deep into React and striving to become a skilled MERN stack developer. <br>
-  💬 Feel free to ask me about web development, React, or my journey so far!
+  🌟 Passionate Web Developer diving deep into <strong>React</strong> and aspiring to become a skilled <strong>MERN Stack Developer</strong>.  
+  💬 Let's talk about <strong>web development, React, or my journey as a developer</strong>!  
 </p>
 
 <p align="center">
@@ -13,19 +13,19 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🎓 Pursuing **BSc. CSIT**  
-- 🌱 Currently learning **React**  
-- 🎯 Aspiring to become a **MERN Stack Developer**  
-- 👯 Looking to collaborate on **open-source web development projects**  
-- ⚡ Fun fact: I love **hiking** and exploring **new places** in my free time!  
+- 🎓 Currently pursuing a **BSc. CSIT** degree.  
+- 🌱 Focused on learning **React**, **Next.js**, and the MERN stack.  
+- 🎯 Aiming to create impactful web applications and collaborate on **open-source projects**.  
+- 🤝 Open to opportunities to work on exciting projects and build communities.  
+- ⚡ Fun fact: I enjoy **hiking**, discovering **new music**, and exploring **hidden gems**!  
 
-📧 **Reach me at:** [carkey.anjan2018@gmail.com](mailto:carkey.anjan2018@gmail.com)  
+📧 **Get in touch:** [carkey.anjan2018@gmail.com](mailto:carkey.anjan2018@gmail.com)  
 
 ---
 
 <h2>💻 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -42,24 +42,24 @@
 
 <h2>🚀 Projects</h2>
 
-Here are some of my favorite projects:
+Here are a few of my favorite projects:
 
 - 🍴 **[Meal Website](https://meal-website-silk.vercel.app/)**  
-  A sleek web app to explore and discover delicious recipes!  
+  Explore and discover delicious recipes with a sleek web interface.  
 
 - 🎵 **[Music Recommendation App](https://music-recommendation-app-eight.vercel.app/)**  
-  Your personal guide to discovering new music.  
+  Your go-to platform for discovering new and trending music.  
 
-- 🌐 **[Intern First Project](https://first-landing-page-fawn.vercel.app/)**  
-  My first professional landing page project.  
+- 🌐 **[First Intern Project](https://first-landing-page-fawn.vercel.app/)**  
+  A professional landing page designed and deployed during my internship.  
 
 ---
 
 <h2>🌐 Connect with Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anjan-karki-395791233/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.anjankarki.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website" />
@@ -70,9 +70,9 @@ Here are some of my favorite projects:
 
 <h2>📄 My CV</h2>
 
-<p>
-  Check out my CV: <a href="https://anjankarkicv.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue" alt="CV Link" />
+<p align="center">
+  <a href="https://anjankarkicv.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue" alt="CV Link" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@ Here are some of my favorite projects:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkianjan&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3>💡 Most Used Languages</h3>
+<h3 align="center">💡 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkianjan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
@@ -93,4 +93,7 @@ Here are some of my favorite projects:
 
 ---
 
+<h2>📌 Fun Quote</h2>
 
+> "Code is like humor. When you have to explain it, it’s bad."  
+> Keep coding and keep building! 🚀
